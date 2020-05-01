@@ -67,3 +67,8 @@ __recovery/
 
 # Boss dependency manager vendor folder https://github.com/HashLoad/boss
 modules/
+
+# Some custom files for ReplaysStat
+_OtherFiles/
+Win32/
+Win64/
